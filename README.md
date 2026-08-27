@@ -47,4 +47,9 @@ I design and maintain course material at Facultad Politécnica, Universidad Naci
 - [Blockchain 2025](https://github.com/mdvillagra/blockchain-2025): Solidity, Hardhat, ERC-721, and React/MetaMask examples, assignment scaffolding, and project workflows.
 - [Matemática Aplicada 2024](https://github.com/mdvillagra/matematica-aplicada-2024): applied mathematics final projects and submission workflows.
 
-My role in these repositories is course design, scaffolding, and mentoring. Student submissions remain the work of their credited authors.
+Research mentoring projects include:
+
+- [FPUNA-ZK-Bridge](https://github.com/FPUNA-ZK-Bridge): undergraduate thesis research on cross-chain bridges using zero-knowledge proofs, light clients, and smart-contract prototypes.
+- [PINV01-25](https://github.com/pinv01-25): a modular traffic-management research project combining SUMO/TraCI simulation, congestion analysis, traffic-signal optimization, and traceable storage through IPFS and the BlockDAG testnet.
+
+My role across these activities includes course design, scaffolding, and research mentoring. Student submissions and collaborative project contributions remain credited to their respective authors.
